@@ -3,7 +3,9 @@
 This package identifies code switching between English (ENG) a number of Pacific languages:
 
 Acehnese	ace
+
 Buginese	bug
+
 Cebuano	ceb
 Chamorro	cha
 Chuukese	chk
