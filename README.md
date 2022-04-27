@@ -2,37 +2,63 @@
 
 This package identifies code switching between English (ENG) a number of Pacific languages:
 
-Acehnese	ace
+Acehnese: ace
 
-Buginese	bug
+Buginese: bug
 
-Cebuano	ceb
-Chamorro	cha
-Chuukese	chk
-Fijian	fij
-Gilbertese	gil
-Hawaiian	haw
-Hiligaynon	hil
-Hiri Motu	hmo
-Ilocano	ilo
-Javanese	jav
-Marshallese	mah
-Malagasy	mlg
-Māori	mri
-Malay	msa
-Niuean	niu
-Pangasinan	pag
-Pohnpeian	pon
-Cook Islands Māori	rar
-Samoan	smo
-Sundanese	sun
-Tahitian	tah
-Tagalog	tgl
-Tonga	ton
-Tuvaluan	tvl
-Waray	war
-Wallisian	wls
-Yapese	yap
+Cebuano: ceb
+
+Chamorro: cha
+
+Chuukese: chk
+
+Fijian: fij
+
+Gilbertese: gil
+
+Hawaiian: haw
+
+Hiligaynon: hil
+
+Hiri Motu: hmo
+
+Ilocano: ilo
+
+Javanese: jav
+
+Marshallese: mah
+
+Malagasy: mlg
+
+Māori: mri
+
+Malay: msa
+
+Niuean: niu
+
+Pangasinan: pag
+
+Pohnpeian: pon
+
+Cook Islands Māori: rar
+
+Samoan: smo
+
+Sundanese: sun
+
+Tahitian: tah
+
+Tagalog: tgl
+
+Tonga: ton
+
+Tuvaluan: tvl
+
+Waray: war
+
+Wallisian: wls
+
+Yapese: yap
 
 # Usage
 
