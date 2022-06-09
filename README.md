@@ -1,6 +1,6 @@
-# eng_mri
+# Pacific Code Switch
 
-This package identifies code switching between English (ENG) a number of Pacific languages:
+This package identifies code switching between English (ENG) a number of Pacific languages. It is part of a larger project on language identification for Austronesian languages (https://jdunn.name/corpora). This package supports the following languages:
 
 Acehnese: ace
 
