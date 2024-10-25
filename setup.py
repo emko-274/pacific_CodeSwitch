@@ -21,7 +21,7 @@ setup(
 	package_data={'': ['eng_mri.v24.2.NZ.Multi.Ngrams_v1.50k.50x1_layers.*','eng_mri.*']},
 	install_requires=["cytoolz",
 						"numpy",
-						"sklearn",
+						"scikit-learn",
 						"tensorflow",
 						],
 	include_package_data=True,
